@@ -1,12 +1,13 @@
 # stop-watch
 It is google chrome extension
+<br>
+<br>
 
+how to add this as google chrome extension?<br>
 
-how to add this as google chrome extension?
-
-1.click three dots in right top of google chrome
-2.Go to More Tools
-3.Go to Extensions
-4.Make sure to turn on developer mode.
-5.Go to Load Unpacked
-6.Uploade files and thats it..
+1.click three dots in right top of google chrome<br>
+2.Go to More Tools<br>
+3.Go to Extensions<br>
+4.Make sure to turn on developer mode.<br>
+5.Go to Load Unpacked<br>
+6.Uploade files and thats it..<br>
